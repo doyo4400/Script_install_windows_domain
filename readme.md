@@ -7,4 +7,4 @@
 
 
 # Bonus :
-- remindbest practice for create AD (AGDLP)
+- remind best practice for create AD (AGDLP)
