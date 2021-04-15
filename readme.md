@@ -1,4 +1,4 @@
-# piece of script for : 
+# pieces of scripts for : 
 
 - install windows server
 - install active directory
