@@ -10,4 +10,4 @@
 Script was test on Win2019
 
 # Bonus :
-- remind best practice for create AD (AGDLP)
+- remind best practice to create AD (AGDLP)
