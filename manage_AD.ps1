@@ -14,7 +14,7 @@ $ldap_path_for_user = "OU=users,DC=domain,dc=local"
 #create OU
 New-ADOrganizationalUnit -Name "$OUname" -Path "$ldap_path_for_ou"
 
-#create groupe
+#create group
 New-ADGroup $AD_groupname -Path $ldap_path_for_group -GroupCategory $group_category -GroupScope $group_scope 
 
 #create user
