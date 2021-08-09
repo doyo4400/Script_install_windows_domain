@@ -6,7 +6,7 @@ $IP_DNS = "192.168.0.1"
 $Interface_eth_name = $get-interfacealias-name #or "Ethernet0"
 $ntp_srv = "1.1.1.1"
 $Nom_srv = "hostname"
-$domain_name = "domain.local"
+$domain_name = "Domain NetBios Name"
 $Admin_domain_name = "Administrateur"
 
 #find name of ethernet interface
