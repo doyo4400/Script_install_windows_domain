@@ -1,6 +1,6 @@
 # Pieces of scripts for : 
 
-- install windows server
+- initialize Windows (Set IP, DNS, Name, Domain)
 - install active directory
 - install dhcp
 - install dns
